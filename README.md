@@ -27,15 +27,6 @@ Repositori ini berfungsi sebagai pusat dokumentasi, panduan kontribusi, dan refe
 
 ---
 
-## 🧑‍💻 Siapa yang Perlu Membaca Ini?
-
-Repositori ini dibuat untuk:
-- Peserta KelasFullstack yang ingin menampilkan proyek mereka
-- Kontributor yang ingin menyumbangkan sistem informasi, SaaS, atau proyek latihan
-- Siapa pun yang ingin memperkuat portofolio GitHub secara terstruktur dan terbuka
-
----
-
 ## 🚀 Ayo Berkontribusi!
 
 Silakan baca `CONTRIBUTING.md` dan `submit-project.md` sebelum mulai mengirimkan proyek. 
