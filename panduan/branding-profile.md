@@ -1,5 +1,8 @@
 # 🎨 Panduan Personal Branding GitHub Profile
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![GitHub stars](https://img.shields.io/github/stars/kelasfullstack/kelasfullstack-guide?style=social)](https://github.com/kelasfullstack/kelasfullstack-guide/stargazers)
+
 Mau GitHub-mu tampil profesional dan bikin orang tertarik buka profilmu? Yuk ikutin beberapa tips berikut:
 
 ---
